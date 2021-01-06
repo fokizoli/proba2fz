@@ -1,3 +1,3 @@
 # proba2fz
 # hozzáírtam valamit
-# ezt már gépről írtam 
+# ezt már gépről írtam volna
